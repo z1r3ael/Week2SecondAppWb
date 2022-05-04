@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="first_fragment_text_view">Это разметка фрагмента</string>
+    <string name="first_fragment_button">Перейти на следующую активити с другим фрагментом</string>
+    <string name="open_alertdialog">Открыть AlertDialog</string>
+    <string name="activity_layout">Это разметка активити</string>
+</resources>
